@@ -3,7 +3,7 @@
   colorschemes.base16 = {
     enable = true;
     colorscheme = {
-      base00 = "NONE"; # "#000000"; # "161617"; # Fondo (background)
+      base00 = "NONE"; # "#000000"; # "161617"; # Fondo (background) #252528
       base01 = "#27272a"; # Oscuro adicional
       base02 = "#353539"; # Nivel medio oscuro
       base03 = "#3C3B3E"; # Texto atenuado (selection-background)
@@ -20,10 +20,10 @@
       base0E = "#aca1cf"; # Magenta
       base0F = "#b7aed5"; # Magenta suave
     };
-    settings = {
-      terminal_colors = true;
-      transparent_mode = true;
-    };
+    # settings = {
+    #   terminal_colors = true;
+    #   transparent_mode = true;
+    # };
   };
 }
 
