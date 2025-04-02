@@ -11,9 +11,9 @@
     termguicolors = true;
   };
   highlight = {
-    Normal = { bg = "NONE"; };         # Fondo del área normal transparente
-    NormalNC = { bg = "NONE"; };       # Fondo cuando la ventana no está enfocada
-    StatusLine = { bg = "NONE"; };     # Barra de estado transparente
+    Normal = { bg = "NONE"; };        
+    NormalNC = { bg = "NONE"; };     
+    StatusLine = { bg = "NONE"; };  
     StatusLineNC = { bg = "NONE"; }; 
   };
 }
