@@ -10,7 +10,6 @@
         indent.enable = false;
       };
     };
-    image.enable = true;
     zen-mode = {
       enable = true;
       settings = {
